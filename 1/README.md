@@ -1,7 +1,7 @@
 ## Prepare
 
 ```
-$ npm run install
+$ npm install
 ```
 
 then run demo via npm-runscript.
