@@ -1,0 +1,7 @@
+source:
+  - ./style.css
+dest: ./styleguide
+dependencies:
+  - ./style.css
+  - ../highlight.css
+  - ../theme.css
