@@ -1,16 +1,26 @@
-## Prepare
+## 準備
+
+`git clone`後、このディレクトリに移動して
 
 ```
 $ npm install
 ```
 
-then run demo via npm-runscript.
+を実行してください。
 
-## Run demo
+## デモの実行
+
+### デモ1
+
+ミニマムな構成でaigisを試すデモ
 
 ```
 $ npm run demo1
 ```
+
+### デモ2
+
+テンプレートヘルパーを使ってサイドメニューを生成するデモ
 
 ```
 $ npm run demo2
