@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "demo1": "aigis run -c ./demo1/aigis_config.yml",
+    "demo2": "aigis run -c ./demo2/aigis_config.yml",
+    "demo3": "aigis run -c ./demo3/aigis_config.yml",
+    "demo4": "aigis run -c ./demo4/aigis_config.yml",
+    "demo5": "aigis run -c ./demo5/aigis_config.yml"
+  },
+  "dependencies": {
+    "node-aigis": "^1.0.5"
+  }
+}

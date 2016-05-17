@@ -1,0 +1,25 @@
+/*
+---
+name: transform
+category: transform
+---
+
+```html
+<button class="ex-ag-btn">html</button>
+```
+
+
+```ejs
+<button class="ex-ag-btn"><%- ejs %></button>
+```
+
+```jade
+button.ex-ag-btn
+  != jade
+```
+
+```hbs
+<button class="ex-ag-btn">{{hbs}}</button>
+```
+
+*/

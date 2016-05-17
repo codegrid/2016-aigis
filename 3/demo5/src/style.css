@@ -1,0 +1,23 @@
+/*
+---
+name: transform
+category: transform
+text:
+  login: ログイン
+compile: true
+---
+
+```ejs
+<button class="ex-ag-btn"><%- text.login %></button>
+```
+
+```jade
+button.ex-ag-btn
+  != text.login
+```
+
+```hbs
+<button class="ex-ag-btn">{{text.login}}</button>
+```
+
+*/
