@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "demo1": "aigis run"
+    "demo1": "aigis run -c ./demo1/aigis_config.yml"
   },
   "dependencies": {
     "node-aigis": "^1.0.5"
