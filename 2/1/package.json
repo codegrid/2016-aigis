@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "demo1": "aigis run"
+  },
+  "dependencies": {
+    "node-aigis": "^1.0.5"
+  }
+}
