@@ -2,9 +2,9 @@
 ---
 name: button
 page:
-  - header/login
-  - main
-
+  - mypage
+  - mypage/header
+  - login
 ---
 
 ```html
